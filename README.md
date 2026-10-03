@@ -7,7 +7,7 @@ Descripción
 - /cursos
 - /nosotros
 - /login
-- *
+- "*"
 
 ## Requisitos implementados
 - BrowserRouter
@@ -52,9 +52,6 @@ src/
 - Vite
 - React Router
 - ESLint
-
-## Subir a GitHub
-...
 
 ---
 ### Créditos
