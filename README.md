@@ -7,7 +7,7 @@ Descripción
 - /cursos
 - /nosotros
 - /login
-- "*"
+- /*
 
 ## Requisitos implementados
 - BrowserRouter
